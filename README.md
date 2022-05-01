@@ -1,5 +1,5 @@
-##important ,,, here I am used authentication and validation by Joi laibrary and axios
-
+## important ,,, here I am used axios for git the movies and git/post the data to/from login/register components  and validation by Joi library 
+## there is no real link for Register and login from Backend Developer
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
